@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Themes/Gtk
 Source0:	http://www.iceflow.net/themes/gatesofhell.tar.gz
+# Source0-md5:	4729e318e956f9832d03c6ce4173a5b1
 URL:		http://www.iceflow.net/themes/
 BuildRequires:	gtk+-devel
 Requires:	gtk-engines
