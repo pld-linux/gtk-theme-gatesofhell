@@ -15,8 +15,6 @@ Requires:	gtk-theme-engine-Xenophilia
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
-%define		_mandir		/usr/X11R6/man
 
 %description
 This theme is a work in progress with the ultimate goal of cloning the
