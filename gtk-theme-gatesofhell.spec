@@ -1,5 +1,5 @@
 Summary:	Look & Feel of Win2k for GTK+
-Summary(pl.UTF-8):   Motyw Win2k dla GTK+
+Summary(pl.UTF-8):	Motyw Win2k dla GTK+
 Name:		gtk-theme-gatesofhell
 Version:	0.1
 Release:	2
